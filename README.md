@@ -4,6 +4,7 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 かねやん
 かねやん
+鈴木
 # ディレクトリ構成
 ```
 seminar/
